@@ -1,0 +1,20 @@
+ back end          npm install     npm run dev 
+
+ backend python    python -m uvicorn main:app --reload --port 8000  
+
+ frontend          npm install     npm run dev
+
+
+ <div
+  style={{
+    height: "100vh",
+    backgroundColor: "#ffffff",
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "flex-start", // pushes content to top
+    alignItems: "center",
+    paddingTop: "100px",          // adjust height from top
+  }}
+>
+
+
